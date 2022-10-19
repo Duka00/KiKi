@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: #202A44;
+    font-family: 'Bebas Neue', cursive;
+    list-style: none
+}
+
+.leftbox {
+    margin-top: 150px;
+    float:left;
+    width:25%;
+    background-color: #46444C;
+    text-align: center;
+    box-shadow: 10px 5px 5px grey;
+    text-decoration-color: red;
+}
+.middlebox{
+    text-align: center;
+    margin-top: 60px;
+    float:left; 
+    width: 55%;
+   
+}
+.rightbox{
+    background-color: #4F4F4F;
+    text-decoration-color: red;
+    margin-top: 150px;
+    float: right;
+    width: 20%;
+    text-align: center;
+    box-shadow: 10px 5px 5px grey;
+}
+footer{
+    
+}
+.socials{
+    
+}
+h1{
+    text-align:center;
+}
+.a{
+    
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between; 
+    text-align: center;
+}
+.phone{
+    width: 33%;
+    color: white;
+}
+.mail{
+    width: 33%;
+}
+.social{
+    width: 33%;
+}
+.button{
+     text-decoration: none;
+     color: white; 
+} 
+.skills li {
+    list-style: none;
+}
+.hobbies li {
+    list-style: none;
+}
